@@ -7,4 +7,5 @@ import javax.swing.*;
  */
 public class HelloGUI {
     private JButton clickMeButton;
+    private JButton button1;
 }
